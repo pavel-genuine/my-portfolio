@@ -1,31 +1,38 @@
 [
-    {
+    {   "id":1,
         "name":"Home Depot",
         "title":"Home Decoration Manufacturer full-stack Website",
         "url":"https://full-stack-12.web.app/",
         "client":"https://github.com/pavel-genuine/Home-decor-manufacturer-website-client-side",
         "server":"https://github.com/pavel-genuine/Home-decor-manufacturer-website-server-side",
         "img":"https://i.ibb.co/wzkXxW4/scrnli-6-9-2022-10-45-49-AM.png",
+        "img2":"https://i.ibb.co/ZxCdXMY/scrnli-6-10-2022-10-21-52-PM.png",
+        "img3":"https://i.ibb.co/fHFXnWJ/scrnli-6-10-2022-10-23-41-PM.png",
         "description":["● Buyers can pay through Stripe payment system.","● Admin can add new product  & can delete any existing  product.","● Admin  can  ship the paid order & can delete  any unpaid order.", "● Admin can change other  users’ status to admin."],
         "technology":["ReactJS","DaisyUI", "Firebase Auth","Firebase Hosting", "ExpressJS", "JWT", "MongoDB", "Heroku"]
     },
-    {
+    {   "id":2,
         "name":"Gadget Arena",
         "title":"Warehouse Management  Website for Gadget Accessories",
         "url":"https://full-stack-11.web.app/",
         "client":"https://github.com/pavel-genuine/warehose-management-website-client-side",
         "server":"https://github.com/pavel-genuine/warehouse-mangement-website-server-side",
         "img":"https://i.ibb.co/zRsPTjz/scrnli-6-9-2022-10-46-43-AM.png",
+        "img2":"https://i.ibb.co/3N1cBVn/scrnli-6-10-2022-10-24-35-PM.png",
+        "img3":"https://i.ibb.co/sH3dtnM/scrnli-6-10-2022-10-25-14-PM.png",
         "description":["● Users can update products by adding quantities & delivering it.","● Users can add a new item and also can delete any existing item.","● On the My Items tab user can items added by him"],
         "technology":["ReactJS", "Firebase Auth", "Firebase Hosting",  "JWT", "ExpressJS", "MongoDB", "Heroku","React-bootstrap"]
     },
-    {
+    {   
+        "id":3,
         "name":"James Clear",
         "title":" Website for Writer and Influencer James Clear",
         "url":"https://fir-red-onion.web.app/",
         "client":"https://github.com/pavel-genuine/independent-sevice-provider-website-react",
         "server":"",
         "img":"https://i.ibb.co/zSt4pZc/scrnli-6-9-2022-10-47-28-AM.png",
+        "img2":"https://i.ibb.co/NrbrRnF/scrnli-6-10-2022-10-25-53-PM.png",
+        "img3":"https://i.ibb.co/G9SPHPf/scrnli-6-10-2022-10-26-34-PM.png",
         "description":["● Users can buy any James Clear service by clicking the Checkout Button of the respective service.","● On the Checkout Tab users will provide the necessary information to proceed the checkout.","● Firebase authentication for email-password and google sign-in.",""],
         "technology":["ReactJS", "Firebase Auth", "Firebase Hosting"]
     }

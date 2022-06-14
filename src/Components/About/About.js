@@ -4,9 +4,9 @@ import './About.css'
 const About = () => {
     return (
         <div id='about'>
-            <div className="about hero min-h-screen bg-[aqua]">
+            <div className="about  hero min-h-screen bg-[aqua]">
                 <div className="hero-content flex-col lg:flex-row-reverse">
-                    <img src="https://media-exp2.licdn.com/dms/image/C4D03AQEEIcMDvk4OEw/profile-displayphoto-shrink_800_800/0/1654664592093?e=1660176000&v=beta&t=gF-e1iV71Jb1l_g5RWWDsF5JmXCXLyOFLS8nUlSfYwA" className="max-w-sm rounded-lg shadow-2xl" />
+                    <img  src="https://media-exp2.licdn.com/dms/image/C4D03AQEEIcMDvk4OEw/profile-displayphoto-shrink_800_800/0/1654664592093?e=1660176000&v=beta&t=gF-e1iV71Jb1l_g5RWWDsF5JmXCXLyOFLS8nUlSfYwA" className="max-w-sm w-[90%] rounded-lg shadow-2xl" />
                     <div>
                         <h1 className="text-3xl font-semibold">About Me</h1>
                         <p className="py-6">Hello! My name is Md Joynul Abedin and I enjoy creating things that live on the internet.
