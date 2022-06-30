@@ -2,3 +2,14 @@
 
 background-color:#e1815f;
 }
+
+
+.about img{
+    opacity: .5;
+    
+}
+
+.about img:hover{
+    opacity:1 ;
+}
+

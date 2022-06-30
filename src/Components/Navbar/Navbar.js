@@ -18,6 +18,7 @@ const Navbar = () => {
       <li  className='items'><a href='/contact' >Contact</a></li>
       </ul>
     </div>
+  
     <a className="btn btn-ghost normal-case  border-[aqua] text-[aqua] text-xl">JA</a>
   </div>
   <div className="navbar-center hidden lg:flex">
