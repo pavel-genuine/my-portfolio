@@ -31,17 +31,17 @@ const Project = (props) => {
                 <div class="card-body">
                     <h2 class="card-title">
                         {name}
-                        <div class=" live-site live btn btn-sm text-[aqua]"><a href={url}>Live Site</a></div>
+                        <div class=" live-site live btn btn-sm text-[aqua]"><a  href={url} target="-blank">Live Site</a></div>
                     </h2>
                     <p>{title}</p>
                     <div class="card-actions ">
                         {
-                            server ? <div class="badge md:badge-lg"><a href={client}>Client Side Code</a></div>
+                            server ? <div class="badge md:badge-lg"><a   href={client} target="-blank">Client Side Code</a></div>
                                 :
-                                <div class="badge badge-outline md:badge-lg"><a href={client}>Source Code</a></div>
+                                <div class="badge badge-outline md:badge-lg"><a  href={client} target="-blank">Source Code</a></div>
                         }
                         {
-                            server && <div class="badge badge-outline md:badge-lg"><a href={server}>Server Side Code</a></div>
+                            server && <div class="badge badge-outline md:badge-lg"><a href={server} target="-blank">Server Side Code</a></div>
 
                         }    </div>
 

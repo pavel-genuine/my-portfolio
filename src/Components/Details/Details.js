@@ -55,7 +55,7 @@ const Details = () => {
 
 
                         <div class="card-actions flex flex-col mt-5 ">
-                            <div class=" live-site btn btn-sm btn-outline border-[aqua] text-[aqua]"><a href={project?.url} target="-blank">Live Site</a></div>
+                            <div class=" live-site btn btn-sm btn-outline border-[aqua] text-[aqua]"><a  href={project?.url} target="-blank">Live Site</a></div>
 
                             {
                                 project?.server ? <div class="btn btn-sm btn-outline border-[#e1815f] text-[#e1815f]"><a href={project?.client}  target="-blank">Client Side Code</a></div>

@@ -11,8 +11,8 @@ const Footer = () => {
   
     <div>
     <span class="footer-title">Social</span> 
-    <a href='https://www.linkedin.com/in/md-joynul-abedin-pavel-9406478a/' class="link link-hover text-[black]">LinkedIn</a> 
-    <a href='https://github.com/pavel-genuine' class="link link-hover text-[black]">Github</a>
+    <a href='https://www.linkedin.com/in/md-joynul-abedin-pavel-9406478a/' target="-blank" class="link link-hover text-[black]">LinkedIn</a> 
+    <a href='https://github.com/pavel-genuine' target="-blank" class="link link-hover text-[black]">Github</a>
 
   </div>
 </footer>

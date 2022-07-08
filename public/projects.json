@@ -23,6 +23,7 @@
         "description":["● Users can update products by adding quantities & delivering it.","● Users can add a new item and also can delete any existing item.","● On the My Items tab user can items added by him"],
         "technology":["ReactJS", "Firebase Auth", "Firebase Hosting",  "JWT", "ExpressJS", "MongoDB", "Heroku","React-bootstrap"]
     },
+    
     {   
         "id":3,
         "name":"James Clear",
@@ -34,6 +35,19 @@
         "img2":"https://i.ibb.co/NrbrRnF/scrnli-6-10-2022-10-25-53-PM.png",
         "img3":"https://i.ibb.co/G9SPHPf/scrnli-6-10-2022-10-26-34-PM.png",
         "description":["● Users can buy any James Clear service by clicking the Checkout Button of the respective service.","● On the Checkout Tab users will provide the necessary information to proceed the checkout.","● Firebase authentication for email-password and google sign-in.",""],
+        "technology":["ReactJS", "Firebase Auth", "Firebase Hosting"]
+    },
+    {   
+        "id":4,
+        "name":"Islamicademy",
+        "title":"Online Educational platform for Islamic Studies ",
+        "url":"https://ed-tech-909ea.web.app/",
+        "client":"https://github.com/pavel-genuine/ed-tech.git",
+        "server":"",
+        "img":"https://i.ibb.co/HpjMw2T/scrnli-7-8-2022-3-25-01-PM.png",
+        "img2":"https://i.ibb.co/MnkftWp/scrnli-7-8-2022-3-22-43-PM.png",
+        "img3":"https://i.ibb.co/34gJyjV/scrnli-7-8-2022-3-23-49-PM.png",
+        "description":["● Users can see detail info of any enlisted courses by clicking the Detail Button of the respective course.","● On the Detail section users will be provided the necessary information to proceed the enrollment.","● Firebase authentication for email-password and google sign-in.","● Profile section will give a vibe of social media impression."],
         "technology":["ReactJS", "Firebase Auth", "Firebase Hosting"]
     }
     
